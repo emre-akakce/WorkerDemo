@@ -46,3 +46,9 @@
 /Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/obj/Debug/net8.0/WorkerDemo.pdb
 /Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/obj/Debug/net8.0/WorkerDemo.genruntimeconfig.cache
 /Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/obj/Debug/net8.0/ref/WorkerDemo.dll
+/Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/obj/Debug/net8.0/WorkerDemo.sourcelink.json
+/Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/bin/Debug/net8.0/System.Net.Http.Json.dll
+/Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/bin/Debug/net8.0/System.Text.Json.dll
+/Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll

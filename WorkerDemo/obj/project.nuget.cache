@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xtN8r4tKLgE=",
+  "dgSpecHash": "TBzbmMCk8Wo=",
   "success": true,
   "projectFilePath": "/Users/emrekardaslar/RiderProjects/WorkerDemo/WorkerDemo/WorkerDemo.csproj",
   "expectedPackageFiles": [
@@ -33,8 +33,10 @@
     "/Users/emrekardaslar/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/emrekardaslar/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "/Users/emrekardaslar/.nuget/packages/system.diagnostics.eventlog/8.0.0/system.diagnostics.eventlog.8.0.0.nupkg.sha512",
-    "/Users/emrekardaslar/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
-    "/Users/emrekardaslar/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+    "/Users/emrekardaslar/.nuget/packages/system.io.pipelines/9.0.0/system.io.pipelines.9.0.0.nupkg.sha512",
+    "/Users/emrekardaslar/.nuget/packages/system.net.http.json/9.0.0/system.net.http.json.9.0.0.nupkg.sha512",
+    "/Users/emrekardaslar/.nuget/packages/system.text.encodings.web/9.0.0/system.text.encodings.web.9.0.0.nupkg.sha512",
+    "/Users/emrekardaslar/.nuget/packages/system.text.json/9.0.0/system.text.json.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
